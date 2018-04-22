@@ -1,2 +1,2 @@
 # Morpion
-Jeu du morpion
+Jeu du morpion Client/Server
